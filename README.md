@@ -1,5 +1,5 @@
 # Bookstores Query System 
-This is a bookstore query System. The system is consist of the function of query, replenishment, reservation and statistical analysis. It is more convenient to serve customer in stores and make decision. 
+This is a bookstore  query system. This system is consist of the function of query, replenishment, reservation and statistical analysis. It is more convenient to serve customers in stores and make decision. 
 # Table of Contents
 1. Show the location of the book in the store.</br>
 2. Replenish books from the warehouse or other stores by the system.</br>
